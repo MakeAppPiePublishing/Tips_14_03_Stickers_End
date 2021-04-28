@@ -1,0 +1,37 @@
+{
+  "frames" : [
+    {
+      "filename" : "truck_0.png"
+    },
+    {
+      "filename" : "truck_1.png"
+    },
+    {
+      "filename" : "truck_2.png"
+    },
+    {
+      "filename" : "truck_3.png"
+    },
+    {
+      "filename" : "truck_4.png"
+    },
+    {
+      "filename" : "truck_5.png"
+    },
+    {
+      "filename" : "truck_6.png"
+    },
+    {
+      "filename" : "truck_7.png"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "duration" : 15,
+    "duration-type" : "fps",
+    "repetitions" : 0
+  }
+}

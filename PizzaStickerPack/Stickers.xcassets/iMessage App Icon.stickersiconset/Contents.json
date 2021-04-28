@@ -1,0 +1,91 @@
+{
+  "images" : [
+    {
+      "filename" : "pizza watch icon29@2x.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "pizza watch icon29@3x.png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "pizza watch 120x90.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "60x45"
+    },
+    {
+      "filename" : "pizza watch 180x135 copy.png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "60x45"
+    },
+    {
+      "filename" : "pizza watch icon29@2x-1.png",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "pizza watch 134x100.png",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "67x50"
+    },
+    {
+      "filename" : "pizza watch 148x110.png",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "74x55"
+    },
+    {
+      "filename" : "pizza watch icon1024.png",
+      "idiom" : "ios-marketing",
+      "scale" : "1x",
+      "size" : "1024x1024"
+    },
+    {
+      "filename" : "pizza watch icon 54x40.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "27x20"
+    },
+    {
+      "filename" : "pizza watch icon 81x60 .png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "27x20"
+    },
+    {
+      "filename" : "pizza watch icon 64x48.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "32x24"
+    },
+    {
+      "filename" : "pizza watch icon 96x72.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "32x24"
+    },
+    {
+      "filename" : "pizza watch icon 1024x768.png",
+      "idiom" : "ios-marketing",
+      "platform" : "ios",
+      "scale" : "1x",
+      "size" : "1024x768"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

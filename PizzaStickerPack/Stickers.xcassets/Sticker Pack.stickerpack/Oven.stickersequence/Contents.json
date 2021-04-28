@@ -1,0 +1,19 @@
+{
+  "frames" : [
+    {
+      "filename" : "oven_1.png"
+    },
+    {
+      "filename" : "oven_2.png"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "duration" : 15,
+    "duration-type" : "fps",
+    "repetitions" : 0
+  }
+}

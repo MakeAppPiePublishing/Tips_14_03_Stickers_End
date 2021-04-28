@@ -1,0 +1,41 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
+  "stickers" : [
+    {
+      "filename" : "HuliLogo small.sticker"
+    },
+    {
+      "filename" : "HuliLogo.sticker"
+    },
+    {
+      "filename" : "Pizza slice circle.sticker"
+    },
+    {
+      "filename" : "pizza slice.sticker"
+    },
+    {
+      "filename" : "SurfGirl_1.sticker"
+    },
+    {
+      "filename" : "SurfGirl_2.sticker"
+    },
+    {
+      "filename" : "SurfGuy_1.sticker"
+    },
+    {
+      "filename" : "SurfGuy_2.sticker"
+    },
+    {
+      "filename" : "Oven.stickersequence"
+    },
+    {
+      "filename" : "Truck.stickersequence"
+    }
+  ]
+}
